@@ -1,4 +1,3 @@
-// A function = a recipe. Write it once, use it many times.
 function sayHello(name) {
   return "Hello, " + name + "!";
 }
